@@ -11,7 +11,7 @@
     </a>
   </div>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=BOOPATHY RAM L&style=flat-square&color=blue" width="150px" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=BOOPATHYRAML&style=flat-square&color=blue" width="150px" alt=""/>
  
   <h1>
     <i>Hey there</i>
